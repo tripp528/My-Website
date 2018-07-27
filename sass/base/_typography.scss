@@ -1,0 +1,17 @@
+body {
+  background: $pale;
+  color: $black;
+  font-family: $font-stack;
+  font-size: $font-size;
+}
+article {
+  background: white;
+  width: 760px;
+  margin: 0 auto;
+  padding: 40px;
+  box-sizing: border-box;
+}
+
+#hello {
+  @include circleThing($bg: green);
+}
