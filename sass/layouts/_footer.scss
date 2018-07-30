@@ -1,0 +1,13 @@
+footer {
+  @include circleThing(
+  $width: 170,
+  $height: 170,
+  $bg: $black,
+  $color: $pale
+  )
+  font-size: $font-size - 4;
+  position: relative;
+  z-index: -4;
+  margin-top: -60px;
+
+}
