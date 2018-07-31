@@ -1,0 +1,7 @@
+body {
+  font-family: $font-stack-helvetica;
+  font-size: $font-size;
+}
+article {
+  @include grid-container;
+}
