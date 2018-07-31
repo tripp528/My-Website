@@ -1,1 +1,9 @@
 //body, article, etc
+#content1 {
+  @include article-box($bg: green);
+  color: black;
+}
+
+#articleHead {
+  @include circleThing($bg: black);
+}
