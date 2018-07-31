@@ -1,0 +1,14 @@
+//body, article, etc
+.articlebox {
+  @include article-box(
+  $bg: $blueTrans
+  );
+  color: black;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.articlehead {
+  @include circleThing($bg: black);
+
+}
