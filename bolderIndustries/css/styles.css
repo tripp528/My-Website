@@ -44,6 +44,9 @@ p {
 footer.page-footer {
   margin: 0; }
 
+#modal1 {
+  width: 300px; }
+
 .articlebox {
   background: rgba(173, 216, 230, 0.7);
   width: 760px;

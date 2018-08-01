@@ -50,7 +50,7 @@
 
   <!--  Scripts-->
   <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
-  <script src="js/bin/materialize.js"></script>
+  <script src="js/bin/materialize.min.js"></script>
   <script src="js/bin/init.js"></script>
   <!--  PHP FORM SCRIPTS-->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
