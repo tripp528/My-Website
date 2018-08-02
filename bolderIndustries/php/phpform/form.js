@@ -53,7 +53,7 @@ $(function()
 
                     $.ajax({
                 type: "POST",
-                url: 'handler.php',
+                url: 'php/phpform/handler.php',
                 data: $form.serialize(),
                 success: after_form_submitted,
                 dataType: 'json'

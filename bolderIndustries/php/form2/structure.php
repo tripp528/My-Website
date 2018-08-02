@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <div class="form-container z-depth-5">
   <h3>SEND EMAIL</h3>
-  <form class="col s6" action="handler2.php" method="post">
+  <form class="col s6" action="php/form2/handler2.php" method="post">
 
     <div class="row">
       <div class="input-field col s12">
